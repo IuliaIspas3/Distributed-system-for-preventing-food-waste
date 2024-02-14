@@ -1,0 +1,1 @@
+The project offers a platform for food providers where they can promote and sell their close-to-expire food for a reduced price. The system is built using a three-tier architecture. The technologies used are Java for the persistence tier, .NET Framework for the API and UI and PostgreSQL for the database.
